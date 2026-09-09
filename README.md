@@ -1,5 +1,5 @@
 # Developer Profile
 
-- **Name:** Mohammad Ishar
+- **Name:** Alex (@ishark8)
 - **Hobby:** MMA
 - **Preferred Development Tool:** VS Code
