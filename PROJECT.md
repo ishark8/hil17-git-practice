@@ -4,7 +4,7 @@
 tetris
 
 ## Problem to Solve
-TBD
+Boredom
 
 ## Target User
 People who like simple games
