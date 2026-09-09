@@ -1,10 +1,10 @@
 # Project Idea
 
 ## Project Name
-TBD
+tetris
 
 ## Problem to Solve
 TBD
 
 ## Target User
-TBD
+People who like simple games
